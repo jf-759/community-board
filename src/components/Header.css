@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f72585;
+    color: white;
+}
+
+.header h1 {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+}
+
+.header p {
+    font-size: 1.1rem;
+}

@@ -1,4 +1,4 @@
-export const post = [
+export const posts = [
     {
         id: 1, 
         group: "Stray Kids",
@@ -40,7 +40,4 @@ export const post = [
         image: "stayc.jpg",
         date: "October 2, 2025 - October 23, 2025"
     },
-    {
-        id: 6,
-    }, 
 ]
