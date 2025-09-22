@@ -40,4 +40,12 @@ export const posts = [
         image: "stayc.jpg",
         date: "October 2, 2025 - October 23, 2025"
     },
+    {
+        id: 6,
+        group: "P1Harmony",
+        title: "P1ustage H: Most Wanted",
+        description: "P1ece! Are y'all ready to see them 'Pretty Boys'. 😏 ",
+        image: "p1harmony.jpg",
+        date: "September 27, 2025 - October 21, 2025"
+    },
 ]
