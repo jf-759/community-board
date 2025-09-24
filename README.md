@@ -1,12 +1,31 @@
-# React + Vite
+🎶 All Things K-Pop!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that displays upcoming K-Pop comeback and events in a clean, responsive card layout.
 
-Currently, two official plugins are available:
+📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was built to practice working with React + Vite. The app features:
+* A unique theme (K-Pop comebacks and events).
+* A header/title describing the theme.
+* About 12 event cards displayed in an organized grid format.
+* Each card shows information such as the group name, event title, release date, and a short description.
+* Responsive design for both desktop and mobile.
 
-## Expanding the ESLint configuration
+🎯 Goals Achieved
+    ☑️ Initialized a new React project with Vite.
+    ☑️ Created functional React components.
+    ☑️ Defined and passed props to components.
+    ☑️ Applied CSS styling to React components.
+    ☑️ Displayed cards in a grid layout with cohesive theme.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Stretch Features
+* added a responsive style for mobile and desktop.
+
+🛠️ Technologies Used
+* React (with Vite)
+* JavaScript
+* CSS
+
+## 📸 Preview  
+
+![K-Pop Community Board Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VhajlxNHZiNjNsbng4bmkxdndsMGVzdnRjOTU1aWc1MmQ2aXBkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSGlJWT6zMdnHFTeen/giphy.gif)
