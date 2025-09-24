@@ -1,8 +1,8 @@
-🎶 **All Things K-Pop!**
+## 🎶 **All Things K-Pop!**
 
 A simple React app that displays upcoming K-Pop comeback and events in a clean, responsive card layout.
 
-📌 **Project Overview**
+## 📌 **Project Overview**
 
 This project was built to practice working with React + Vite. The app features:
 * A unique theme (K-Pop comebacks and events).
@@ -11,14 +11,14 @@ This project was built to practice working with React + Vite. The app features:
 * Each card shows information such as the group name, event title, release date, and a short description.
 * Responsive design for both desktop and mobile.
 
-🎯 **Goals Achieved**
+## 🎯 **Goals Achieved**
     ☑️ Initialized a new React project with Vite.
     ☑️ Created functional React components.
     ☑️ Defined and passed props to components.
     ☑️ Applied CSS styling to React components.
     ☑️ Displayed cards in a grid layout with cohesive theme.
 
-✨ **Stretch Features**
+## ✨ **Stretch Features**
 * added a responsive style for mobile and desktop.
 
 🛠️ Technologies Used
