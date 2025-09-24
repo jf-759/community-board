@@ -21,7 +21,7 @@ This project was built to practice working with React + Vite. The app features:
 ## ✨ **Stretch Features**
 * added a responsive style for mobile and desktop.
 
-🛠️ Technologies Used
+## 🛠️ **Technologies Used** 
 * React (with Vite)
 * JavaScript
 * CSS
